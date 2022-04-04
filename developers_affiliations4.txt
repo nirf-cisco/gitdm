@@ -18448,6 +18448,8 @@ nirdotan: nird!mellanox.com
 	Mellanox
 nirenjan: nirenjan.krishnan!dell.com, nirenjan_krishnan!dell.com
 	dell
+nirf-cisco: nirf!cisco.com nirf-cisco!users.noreply.github.com
+    Cisco 
 nirga: nirga!users.noreply.github.com
 	Independent until 2015-01-01
 	ZORE from 2015-01-01 until 2017-01-01
